@@ -1,0 +1,526 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.c_nav {
+    padding-bottom: 20px;
+}
+.c_log {
+    font-size: 20px;
+}
+.menu ul li a {
+    padding: 0 0px !important;
+    font-size: 16px;
+}
+.me-2 {
+    width: 190px;
+    margin-right: 0.5rem !important;
+    margin-left: 0px;
+}
+
+/*banner start*/
+.banner {
+    padding-bottom: 30px;
+}
+.b_h1 {
+    margin: 35px 0 10px;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+}
+.b_img img {
+    margin-left: 0px;
+    width: 100%;
+}
+.b_h1 {
+    margin: 20px 0 16px 25px;
+    text-align: center;
+    font-size: 48px;
+    line-height: 50px;
+}
+.b_p {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 16px;
+}
+.btn_link1 {
+    margin-top: 22px;
+    margin-left: 115px;
+    width: 90px;
+    height: 34px;
+    border-radius: 15px;
+}
+.btn_link2 {
+    margin-top: 22px;
+    margin-left: 115px;
+    width: 92px;
+    eight: 34px;
+    border-radius: 15px;
+}
+/*forbes start*/
+.forbes{
+    margin-left: -30px;
+    padding: 5px 0 5px 0px;
+}
+.s_img img {
+    margin-top: 30px;
+    width: 50px;
+    height: 18px;
+}
+
+/*testimony start*/
+.t_h1 {
+    padding-bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+.t_img {
+    text-align: center;
+    padding-left: 0px;
+    border-radius: 50px;
+}
+.t_img img {
+    margin-bottom: -24px;
+    width: 100px !important;
+    height: 100px;
+}
+.si_rape {
+    margin-left: 60px;
+    margin-bottom: 10px;
+    padding: 22px 0 1px 2px;
+    width: 220px;
+    height: 200px;
+}
+.t_p {
+    padding-right: 10px;
+}
+/*ready start*/
+.re_rep {
+    margin: 0 0 10px 56px;
+    border-radius: 35px;
+}
+.ready {
+    padding-top: 35px;
+}
+.r_h2 {
+    font-size: 30px;
+    line-height: 100.3%;
+    letter-spacing: 0.56px;
+}
+.r_p {
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+.a_rep {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn_link3 {
+    font-size: 16px;
+    width: 115px;
+    height: 35px;
+    border-radius: 16px;
+}
+/*footer top start*/
+.footer {
+    padding-top: 35px;
+}
+.f_h3 {
+    font-size: 16px;
+    font-weight: 400;
+}
+.f_p {
+    font-size: 16px;
+}
+/*footer start*/
+
+.c_ftop {
+    width: 100px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.c_nav {
+    padding-bottom: 20px;
+}
+.c_log {
+    font-size: 20px;
+}
+.menu ul li a {
+    padding: 0 0px !important;
+    font-size: 16px;
+}
+.me-2 {
+    width: 210px;
+    margin-right: 0.5rem !important;
+    margin-left: 0px;
+}
+/*banner start*/
+.banner {
+    padding-bottom: 30px;
+}
+.b_img img {
+    margin-left: 0px;
+    width: 100%;
+}
+.b_h1 {
+    margin: 20px 0 16px 10px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 65px;
+}
+.b_p {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 16px;
+}
+.btn_link1 {
+    margin-top: 22px;
+    margin-left: 206px;
+    width: 100px;
+    height: 34px;
+    border-radius: 20px;
+}
+.btn_link2 {
+    margin-top: 22px;
+    margin-left: 206px;
+    width: 100px;
+    eight: 34px;
+    border-radius: 20px;
+}
+/*forbes start*/
+.forbes{
+    margin-left: -30px;
+    padding: 45px 0 45px 30px;
+}
+.s_img img {
+    margin-top: 35px;
+    width: 100px;
+    height: 18px;
+}
+/*testimony start*/
+.t_h1 {
+    padding-bottom: 45px;
+    font-size: 35px;
+    text-align: center;
+}
+.t_img {
+    text-align: center;
+    padding-left: 0px;
+    border-radius: 50px;
+}
+.t_img img {
+    margin-bottom: -52px;
+    width: 115px !important;
+    height: 115px;
+}
+.si_rape {
+    margin-left: 75px;
+    margin-bottom: 30px;
+    padding: 69px 0 70px 55px;
+    width: 368px;
+    height: 300px;
+}
+.t_p {
+    padding-right: 10px;
+}
+/*ready start*/
+.re_rep {
+    margin: 0 0 10px 0px;
+    border-radius: 60px;
+    }
+
+.ready {
+    padding-top: 45px;
+}
+.r_h2 {
+    font-size: 50px;
+    line-height: 140.3%;
+    letter-spacing: 0.56px;
+}
+.r_p {
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.a_rep {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.btn_link3 {
+    font-size: 20px;
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+}
+/*footer top start*/
+.footer {
+    padding-top: 100px;
+}
+.f_h3 {
+    font-size: 19px;
+    font-weight: 400;
+}
+.f_p {
+    font-size: 16px;
+}
+/*footer start*/
+
+.c_ftop {
+    width: 100px;
+}
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.c_nav {
+    padding-bottom: 25px;
+}
+.c_log {
+    font-size: 25px;
+}
+.menu ul li a {
+    padding: 0 0px !important;
+    font-size: 18px;
+}
+.me-2 {
+    width: 235px;
+    margin-right: 0.5rem !important;
+    margin-left: 0px;
+}
+/*banner start*/
+.banner {
+    padding-bottom: 40px;
+}
+.b_h1 {
+    font-size: 60px;
+    line-height: 25px;
+    text-align: center;
+}
+.b_p {
+    font-size: 22px;
+    text-align: center;
+}
+.btn_link1 {
+    margin-left: 145px;
+    width: 108px;
+}
+.btn_link2 {
+    margin-left: 145px;
+    width: 108px;
+}
+/*forbes start*/
+.forbes {
+    padding-top: 65px;
+    padding-bottom: 50px;
+}
+.s_img img {
+    margin-top: 32px;
+    width: 80px;
+    height: 15px;
+    margin-left: 90px;
+}
+/*second banner start*/
+.btn_link1 {
+    margin-left: 292px;
+    width: 108px;
+}
+
+.btn_link2 {
+    margin-left: 292px;
+    width: 108px;
+}
+
+/*last banner start*/
+.b_img {
+    padding-top: 20px;
+    text-align: center;
+}
+/*testimoni start*/
+.t_h1 {
+    padding-bottom: 70px;
+    font-size: 50px;
+    text-align: center;
+}
+.t_h2 {
+    padding-left: 80px;
+    padding-bottom: 50px;
+    width: 285px;
+    height: 20px;
+    font-size: 28px;
+}
+.second_row{
+    text-align: center;
+}
+.t_img {
+    padding-left: 0px;
+}
+.t_img img {
+    width: 170px !important;
+    height: 170px;
+}
+.si_rape {
+    margin: 0px 0 50px 130px;
+    width: 450px;
+}
+.t_p {
+    padding-right: 40px;
+}
+
+/*redy start*/
+.ready {
+    padding-top: 50px;
+}
+.re_rep {
+    border-radius: 80px;
+}
+.r_p {
+    padding-bottom: 20px;
+    font-size: 38px;
+}
+
+.r_h2 {
+    font-size: 52px;
+    line-height: 90.3%;
+    letter-spacing: -0.44px;
+}
+
+.btn_link3 {
+    font-size: 25px;
+    width: 210px;
+    height: 52px;
+    border-radius: 26px;
+}
+.a_rep {
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+/*foorwe top start*/
+.footer {
+    padding-top: 90px;
+
+}
+.f_h3 {
+    font-size: 24px;
+}
+
+.f_p {
+    font-size: 18px;
+}
+.foot_end {
+    font-size: 16px;
+    line-height: 28px;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.c_nav {
+    padding-bottom: 25px;
+}
+.c_log {
+    font-size: 25px;
+}
+.menu ul li a {
+    padding: 0 12px !important;
+    font-size: 18px;
+}
+/*banner start*/
+.banner {
+    padding-bottom: 50px;
+}
+.b_h1 {
+    margin: 65px 0 10px;
+    font-size: 75px;
+    line-height: 80px;
+}
+
+.btn_link1 {
+    width: 110px;
+}
+.btn_link2 {
+    margin-left: 145px;
+}
+/*forbes start*/
+.forbes {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.s_img img {
+    margin-top: 32px;
+    height: 25px;
+}
+
+/*last banner start*/
+.b_img {
+    padding-top: 20px;
+    width: 90%;
+}
+/*testimoni start*/
+.t_h1 {
+    padding-bottom: 75px;
+    font-size: 55px;
+}
+.t_img img {
+    width: 150px !important;
+    height: 150px;
+}
+.si_rape {
+    padding: 122px 0 65px 45px;
+    width: 290px;
+    height: 400px;
+}
+.t_p {
+    padding-right: 62px;
+}
+
+/*redy start*/
+.ready {
+    padding-top: 100px;
+}
+.re_rep {
+    border-radius: 70px;
+}
+.r_p {
+    padding-bottom: 25px;
+    font-size: 42px;
+}
+
+.r_h2 {
+    font-size: 75px;
+    line-height: 97.3%;
+    letter-spacing: 0.56px;
+}
+
+.btn_link3 {
+    font-size: 28px;
+    width: 270px;
+    height: 55px;
+    border-radius: 50px;
+}
+.a_rep {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+/*foorwe top start*/
+.footer {
+    padding-top: 100px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
+
